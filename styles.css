@@ -8,7 +8,7 @@ body {
 }
 
 header {
-    background-color: #e76f51;
+    background-color: #10b138;
     color: white;
     padding: 1rem 0;
     text-align: center;
@@ -65,7 +65,7 @@ section h2 {
 
 .item {
     text-align: center;
-    background-color: #f4a261;
+    background-color: #24a52b;
     padding: 1rem;
     border-radius: 10px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
